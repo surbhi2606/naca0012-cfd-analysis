@@ -1,0 +1,12 @@
+﻿# 
+# This file contains the parameter values of the Design Points successfully updated by ANSYS Workbench.
+# Project name: naca0012
+# Creation date: 06/27/2026 02:04:51
+# 
+# 06/27/2026 02:04:51
+# The parameters defined in the project are:
+# ,P4 - cl-op,P3 - cd-op
+# 
+# The following header line defines the name of the columns by reference to the parameters.
+Name,P4,P3
+DP 0,0.00056661116,0.012797767
