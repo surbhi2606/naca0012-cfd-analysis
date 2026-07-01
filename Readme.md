@@ -200,7 +200,7 @@ Residual plots were monitored throughout the simulation to ensure numerical conv
 | Angle of Attack | Lift Coefficient (Cl) | Drag Coefficient (Cd) |
 |----------------|-----------------------|-----------------------|
 | 0° | *5.6661116145e-04* | *1.2797767341e-02* |
-| 10° | *To be added* | *To be added* |
+| 10° | *1.0070986359e+00* | *3.3141343567e-01* |
 
 ---
 
